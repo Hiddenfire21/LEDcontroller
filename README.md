@@ -14,10 +14,13 @@ The accompanying Android application allows manual control over the colours disp
 </p>
 
 
-This project references code and resources from:
+This project references codes and resources from:
 
 Control LED RGB WS2812B using Bluetooth and Android by Lightthedreams
 https://create.arduino.cc/projecthub/lightthedreams/control-led-rgb-ws2812b-using-bluetooth-and-android-76b0ec 
 
 MIT App Inventor 
 http://appinventor.mit.edu/ 
+
+FastLED Animation Library
+https://fastled.io/
